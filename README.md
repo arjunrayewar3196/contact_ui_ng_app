@@ -1,3 +1,11 @@
+[2:46 PM] arjun rayewar
+
+docker tag jyoshna_img:latest docker.io/arjunrayewar/jyoshna_img:latest
+
+[2:47 PM] arjun rayewar
+
+docker push docker.io/arjunrayewar/jyoshna_img:latest
+
 # ContactUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
